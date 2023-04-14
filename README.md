@@ -13,13 +13,13 @@ Hey There
 I'm a university student from Iran
 
 - ⌨️ I learn programming in my free time
-- 
+
 - ⚡ Currently learning Javascript
-- 
+
 - 🔥 I know some Python, Html/CSS and JavaScript
-- 
+
 - 🛠️ I work on Anki add-ons
-- 
+
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](noobj2.t.me)
 
 ---
