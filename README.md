@@ -20,7 +20,10 @@ I'm a university student from Iran
 
 - 🛠️ I work on Anki add-ons
 
-- 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](noobj2.t.me)
+- 📫 Contact Me: [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](noobj2.t.me)
+
+- ❤️ Support My Work: [![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/noobj2)
+
 
 ---
 
